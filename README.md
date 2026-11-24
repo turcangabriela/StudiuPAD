@@ -30,3 +30,5 @@ Gabriela Țurcan
 ## Disciplina
 
 Planificarea aplicațiilor desktop
+
+Acest repository a fost configurat local folosind Git
